@@ -76,6 +76,12 @@ php artisan serve --port=10000
 
 The application will be accessible at: `http://localhost:10000`
 
+### API Documentation
+View the complete API documentation and test endpoints:
+
+**Postman Collection:** [Pokemon API Documentation](https://www.postman.com/galactic-astronaut-949250/workspace/public/collection/35129765-3dd58eb1-f4d6-4443-82e7-fac9d82e3588?action=share&creator=35129765)
+
+
 ## Useful Commands
 
 ```bash
